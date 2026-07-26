@@ -1,6 +1,7 @@
 {
   "item.tutorialmod.bismuth": "秘",
   "item.tutorialmod.raw_bismuth": "粗秘",
+  "item.tutorialmod.chisel": "凿子",
 
   "block.tutorialmod.bismuth_block": "秘块",
   "block.tutorialmod.bismuth_ore": "秘矿",
